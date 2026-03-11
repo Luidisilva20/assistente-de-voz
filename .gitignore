@@ -1,0 +1,8 @@
+# Ignorar variáveis de ambiente (Chaves de API)
+.env
+
+# Ignorar ficheiros de áudio gerados durante os testes
+*.wav
+
+# Ignorar pastas de cache nativas do Python
+__pycache__/
