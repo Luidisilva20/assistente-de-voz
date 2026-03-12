@@ -30,5 +30,5 @@ Para rodar este projeto na sua máquina, você precisará ter instalado:
 
 **1. Clone o repositório:**
 ```bash
-git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)
+git clone [https://github.com/Luidisilva20/assistente-financeiro-ia.git](https://github.com/Luidisilva20/assistente-financeiro-ia.git)
 cd NOME-DO-REPOSITORIO
